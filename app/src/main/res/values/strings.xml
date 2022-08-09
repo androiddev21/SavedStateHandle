@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SavedStateModule</string>
+    <string name="generate_colors">Generate colors</string>
+</resources>
